@@ -1,0 +1,5 @@
+Olá, {{ email }}
+Obrigado por criar o registro
+
+Atenciosamente,
+A Direção 
